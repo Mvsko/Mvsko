@@ -1,12 +1,10 @@
-### Salut, moi c'est Mvsko' 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mvskoo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Mvskoo_&screen_name=Mvskoo_)
+<h1 align="center">Salut, moi c'est Mvsko' 👋</h1>
+<h3 align="center">[![Twitter Follow](https://img.shields.io/twitter/follow/Mvskoo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Mvskoo_&screen_name=Mvskoo_)</h3>
 
 ## Présentation rapide
 
-- 🔭 Je suis en train de travailler sur un projet de bots discord.
-- 🌱 J'apprends le Javascript en principal mais également d'autres languages en ce moment.
-- 👯 Je travaille majoritairement seul sur mes projets personnels.
+- 🔭 Je travaille sur un projet de bots discord.
+- 🌱 J'apprends le Javascript.
 - 💬 Beaucoup de travaux arrivent pour 2021.
 
 ### Réseaux:
