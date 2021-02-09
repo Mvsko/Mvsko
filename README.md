@@ -1,5 +1,6 @@
 <h1 align="center">Salut, moi c'est Mvsko' 👋</h1>
-<h3 align="center">[![Twitter Follow](https://img.shields.io/twitter/follow/Mvskoo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Mvskoo_&screen_name=Mvskoo_)</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mvskoo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Mvskoo_&screen_name=Mvskoo_)
 
 ## Présentation rapide
 
