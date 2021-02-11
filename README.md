@@ -4,7 +4,7 @@
 
 ## Présentation rapide
 
-- 🔭 Je travaille sur un projet de bots discord.
+- 🔭 Je travaille sur un projet de bots discord avec @MandoDB
 - 🌱 J'apprends le Javascript.
 - 💬 Beaucoup de travaux arrivent pour 2021.
 
