@@ -4,9 +4,9 @@
 
 ## Présentation rapide
 
-- 🔭 Je travaille sur un projet de bots discord avec @MandoDB
-- 🌱 J'apprends le Python et le Javascript.
-- 💬 Beaucoup de travaux arrivent pour 2021 (Python/Javascript/Html-CSS).
+- 🔭 Je travaille sur un projet de vente de programmes/scripts/applications avec @MandoDB
+- 🌱 J'apprends le Python, le Java ainsi que Lua
+- 💬 Beaucoup de travaux arrivent pour 2022 (Python/Javascript/Html-CSS).
 
 ### Réseaux:
 
