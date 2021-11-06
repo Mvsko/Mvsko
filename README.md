@@ -20,7 +20,7 @@ const drakar = {
   experiences: {
                         ceo: "Drakar",
                         programmer: "Anon-Files bot"
-                      },
+               },
   app: "I am doing a new project of programs and hosting with @MandoDB"
 }
 ```
@@ -61,8 +61,4 @@ const drakar = {
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvsko&theme=react&line_height=40&hide=css"/>
     </a>
-</div
-
-<br/>
-
----
+</div>
