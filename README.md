@@ -13,10 +13,10 @@
 ### More about me 🎈
 
 ```javascript
-const drakar = {
+const profile = {
   username: mvsko,
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Express, Node, Socket],
+  tools: [React, Express, Node],
   experiences: {
                         ceo: "Drakar",
                         programmer: "Anon-Files bot"
