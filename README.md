@@ -66,5 +66,6 @@ const profile = {
 <br/>
 
 ---
-
-<img src ="https://profile-counter.glitch.me/mvsko/count.svg"/>
+<p align="center">
+  <img src ="https://profile-counter.glitch.me/mvsko/count.svg"/>
+</p>
