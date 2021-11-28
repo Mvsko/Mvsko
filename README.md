@@ -62,4 +62,4 @@ const profile = {
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvsko&theme=react&line_height=40&hide=css"/>
     </a>
 </div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=mvsko&left_color=blue&right_color=white"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=mvsko&left_color=blue&right_color=orange"/>
