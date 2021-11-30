@@ -19,7 +19,7 @@ const profile = {
   tools: [React, Express, Node],
   experiences: {
                         ceo: "Drakar",
-                        programmer: "Anon-Files bot"
+                        programmer: "Traffic bots"
                },
   app: "I am doing a new project of programs and hosting with @MandoDB"
 }
