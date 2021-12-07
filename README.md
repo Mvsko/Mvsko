@@ -10,23 +10,6 @@
 
 ---
 
-### More about me 🎈
-
-```javascript
-const profile = {
-  username: mvsko,
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Express, Node],
-  experiences: {
-                        ceo: "Drakar",
-                        programmer: "Traffic bots"
-               },
-  app: "I am doing a new project of programs and hosting with @MandoDB"
-}
-```
-
----
-
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
