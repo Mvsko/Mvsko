@@ -1,3 +1,5 @@
+<img align="right" alt="PNG" height="160px" src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)" /> 
+
 # Hi there, I'm Mvsko
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
